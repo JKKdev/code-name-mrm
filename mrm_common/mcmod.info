@@ -1,0 +1,19 @@
+[
+{
+"modid": "mrm",
+"name": "Minecraft Random Mod",
+"description": "Playing around in forge environment :)",
+"version": "1.0a",
+"credits": "Pahimar for tutorials",
+"logoFile": "",
+"mcversion": "",
+"url": "http://www.github.com/jkkdev/",
+"updateUrl": "",
+"authors": [ "JKKDev" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
